@@ -44,8 +44,6 @@ The dataset used in this project is from a Kaggle competition with a prize of $2
 
 ## Results
 
-## Results
-
 The final stacked model, which combined the predictions from various base classifiers (decision tree, random forest, support vector machines, multilayer perceptron, and K-nearest neighbors), used Logistic Regression as the meta-classifier. The model was built without hyperparameter tuning and with 0.5 SMOTE sampling ratio to address class imbalance.
 
 The performance of the stacked model was evaluated using the Kaggle submission scores. The results are as follows:
